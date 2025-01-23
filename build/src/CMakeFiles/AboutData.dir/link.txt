@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAboutData.a CMakeFiles/AboutData.dir/AboutData_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib libAboutData.a

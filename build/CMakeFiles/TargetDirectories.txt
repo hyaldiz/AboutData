@@ -1,0 +1,13 @@
+/home/huseyin/Desktop/QtSQLModels/build/CMakeFiles/SQLModels.dir
+/home/huseyin/Desktop/QtSQLModels/build/CMakeFiles/SQLModels_qmlimportscan.dir
+/home/huseyin/Desktop/QtSQLModels/build/CMakeFiles/edit_cache.dir
+/home/huseyin/Desktop/QtSQLModels/build/CMakeFiles/rebuild_cache.dir
+/home/huseyin/Desktop/QtSQLModels/build/CMakeFiles/SQLModels_autogen.dir
+/home/huseyin/Desktop/QtSQLModels/build/src/CMakeFiles/AboutData.dir
+/home/huseyin/Desktop/QtSQLModels/build/src/CMakeFiles/edit_cache.dir
+/home/huseyin/Desktop/QtSQLModels/build/src/CMakeFiles/rebuild_cache.dir
+/home/huseyin/Desktop/QtSQLModels/build/src/CMakeFiles/AboutData_autogen.dir
+/home/huseyin/Desktop/QtSQLModels/build/src/DMMS/CMakeFiles/DMMS.dir
+/home/huseyin/Desktop/QtSQLModels/build/src/DMMS/CMakeFiles/edit_cache.dir
+/home/huseyin/Desktop/QtSQLModels/build/src/DMMS/CMakeFiles/rebuild_cache.dir
+/home/huseyin/Desktop/QtSQLModels/build/src/DMMS/CMakeFiles/DMMS_autogen.dir

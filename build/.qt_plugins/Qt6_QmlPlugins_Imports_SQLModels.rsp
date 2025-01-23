@@ -1,0 +1,9 @@
+-rootPath
+/home/huseyin/Desktop/QtSQLModels
+-cmake-output
+-output-file
+/home/huseyin/Desktop/QtSQLModels/build/.qt_plugins/Qt6_QmlPlugins_Imports_SQLModels.cmake
+-importPath
+/home/huseyin/Desktop/QtSQLModels/build
+-importPath
+/home/huseyin/Qt/6.4.3/gcc_64/./qml

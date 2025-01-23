@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/huseyin/Desktop/QtSQLModels/build/SQLModels_autogen",
+	"CMAKE_BINARY_DIR" : "/home/huseyin/Desktop/QtSQLModels/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/huseyin/Desktop/QtSQLModels/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/huseyin/Desktop/QtSQLModels",
+	"CMAKE_SOURCE_DIR" : "/home/huseyin/Desktop/QtSQLModels",
+	"INCLUDE_DIR" : "/home/huseyin/Desktop/QtSQLModels/build/SQLModels_autogen/include",
+	"INPUTS" : [ "/home/huseyin/Desktop/QtSQLModels/src/UI/Main.qml" ],
+	"LOCK_FILE" : "/home/huseyin/Desktop/QtSQLModels/build/CMakeFiles/SQLModels_autogen.dir/AutoRcc_sqlmodels_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "sqlmodels" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_sqlmodels.cpp",
+	"RCC_EXECUTABLE" : "/home/huseyin/Qt/6.4.3/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/huseyin/Desktop/QtSQLModels/build/CMakeFiles/SQLModels_autogen.dir/AutoRcc_sqlmodels_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/huseyin/Desktop/QtSQLModels/sqlmodels.qrc",
+	"VERBOSITY" : 0
+}

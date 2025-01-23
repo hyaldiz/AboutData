@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "qapplication": "cpp",
+        "qsqldatabase": "cpp",
+        "qobject": "cpp",
+        "qsqlquery": "cpp"
+    }
+}
